@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Ovo&display=swap");
+
+body {
+  font-family: "Ovo", serif;
+}
+
+#navbar a, footer a {
+  font-size: large;
+}
